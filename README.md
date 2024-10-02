@@ -1,2 +1,2 @@
-This is my academic project
+This project, titled "Fine-Grained Indian Food Recognition Using Deep Architecture," aims to enhance food image recognition through advanced deep learning models. By leveraging a progressive region enhancement network (PRENet) and self-attention mechanisms, the project focuses on improving the accuracy of classifying fine-grained Indian food images. The system is trained on a dataset of 13 Indian food classes and demonstrates robust performance in identifying subtle visual differences between dishes. This work opens avenues for applications in dietary monitoring, nutrition analysis, and AI-driven culinary innovations.
 # AI-academic-project
